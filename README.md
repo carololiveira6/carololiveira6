@@ -20,9 +20,9 @@ I'm a junior developer, currently working in Brazil at [@grupoboticario](https:/
 
 <div>
 	<a href="https://github.com/carololiveira6">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carololiveira6&count_private=true&show_icons=true&theme=github_dark" />
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carololiveira6&count_private=true&show_icons=true&theme=github_dark" />
 	</a>
 	<a href="https://github.com/carololiveira6">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carololiveira6&theme=github_dark&layout=compact" />
+	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carololiveira6&theme=github_dark&layout=compact" />
 	</a>
 </div>
