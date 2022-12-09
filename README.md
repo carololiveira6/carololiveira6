@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinasao6/)](https://www.linkedin.com/in/carolinasao6/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinasao6@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/carololiveira6)](https://gitlab.com/carololiveira6)
+<a href="https://www.linkedin.com/in/carolinasao6/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://gitlab.com/carololiveira6">
+	<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+<a href="mailto:carolinasao6@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</br>
+<br/>
+<br/>
 
-# 👨🏻‍💻 &nbsp;About Me:
+My name is Carolina Oliveira (she/her). I graduated with a degree in Computer Technology from Fluminense Federal University (UFF).
+I'm a junior developer, currently working in Brazil at [@grupoboticario](https://github.com/grupoboticario).
 
-- My name is Carolina Oliveira (she/her).
-- I graduated with a degree in Computer Technology from Fluminense Federal University (UFF).
-- I'm a junior developer, currently working in Brazil at [@grupoboticario](https://github.com/grupoboticario).
-
-</br>
 </br>
 
 <a href="https://github.com/carololiveira6">
